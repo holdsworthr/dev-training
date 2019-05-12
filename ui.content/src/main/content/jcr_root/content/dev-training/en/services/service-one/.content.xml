@@ -4,11 +4,12 @@
     <jcr:content
         cq:contextHubPath="/etc/cloudsettings/default/contexthub"
         cq:contextHubSegmentsPath="/etc/segmentation/contexthub"
+        cq:lastModified="{Date}2019-03-21T08:25:40.825Z"
+        cq:lastModifiedBy="admin"
         cq:template="/conf/dev-training/settings/wcm/templates/content-page"
         jcr:primaryType="cq:PageContent"
-        jcr:title="English"
+        jcr:title="Product"
         sling:resourceType="dev-training/components/page"
         pageTitle="New Project"
         socialMedia="[facebook]"/>
-    <services/>
 </jcr:root>
